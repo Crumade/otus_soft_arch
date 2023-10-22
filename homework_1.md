@@ -50,7 +50,7 @@
    
 ## Контекстная схема
 Как хочет заказчик
-![image](https://github.com/Crumade/otus_soft_arch/assets/130229058/be3f25c9-0fab-4af1-98b5-8c9ec4305949)
+![image](https://github.com/Crumade/otus_soft_arch/assets/130229058/583bc80c-1af3-472a-b7b4-04f016665c9e)
 
 ## Критичные сценарии
 1. Обработка обращений клиентов.
