@@ -3,6 +3,6 @@
 Выбран критичный сценарий из первого ДЗ:
 - Обработка обращений клиентов
 
-![image](https://github.com/Crumade/otus_soft_arch/assets/130229058/526827bc-5458-4250-90a3-2afc1a32a7da)
+![image](https://github.com/Crumade/otus_soft_arch/assets/130229058/2211430e-7620-4600-8201-164877be5323)
 
-
+Надежность: Могут быть проблемы с сетью
