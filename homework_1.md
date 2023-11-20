@@ -52,6 +52,8 @@
 Как хочет заказчик
 ![image](https://github.com/Crumade/otus_soft_arch/assets/130229058/583bc80c-1af3-472a-b7b4-04f016665c9e)
 
+![контекстная drawio](https://github.com/Crumade/otus_soft_arch/assets/130229058/77f728ee-7b25-4d17-a0ec-34ca60140c9b)
+
 ## Критичные сценарии
 1. Обработка обращений клиентов.
 2. Прием звонков от клиентов и создание обращений на услуги УК.
